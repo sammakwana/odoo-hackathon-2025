@@ -78,35 +78,61 @@ Enable departments to post temporary internal tasks matched by skills.
 - Align workforce potential with organizational goals.
 
 # plain text
-        ┌────────────────────────┐
-        │  New Employee Added    │
-        └──────────┬─────────────┘
-                   ↓
-     ┌──────────────────────────────┐
-     │ Checklist Auto-Generated     │
-     │ Based on Role/Department     │
-     └──────────┬───────────────────┘
-                ↓
-     ┌──────────────────────────────┐
-     │ Tasks Assigned Automatically │
-     │ to IT / Admin / HR Teams     │
-     └──────────┬───────────────────┘
-                ↓
-     ┌────────────────────────────────┐
-     │ Employees Upload Documents     │
-     │ via Portal or Backend Access   │
-     └──────────┬─────────────────────┘
-                ↓
-     ┌────────────────────────────────────────┐
-     │ Admin/HR Reviews & Verifies Documents  │
-     └──────────┬─────────────────────────────┘
-                ↓
-     ┌────────────────────────────────┐
-     │ Dashboard Tracks Progress       │
-     │ (Visual Cues + Status Alerts)  │
-     └──────────┬─────────────────────┘
-                ↓
-        ┌────────────────────────┐
-        │  Onboarding Completed ✅ │
-        └────────────────────────┘
 
++---------------------+
+|  Screen 2: Login    |
+|  -----------------  |
+|  Email + Password   |
+|  [Login Button]     |
++----------+----------+
+           |
+           v
++-----------------------------+
+| Screen 1: Home Page         |
+| --------------------------  |
+| - Search Users              |
+| - Filter by Availability    |
+| - View Skill Cards          |
+| - [Request] Button          |
+| - Pagination                |
++---+-------------+-----------+
+    |             |
+    |             v
+    |      +----------------------+
+    |      | Screen 3: User Profile|
+    |      | -------------------- |
+    |      | - Name, Location     |
+    |      | - Skills Offered     |
+    |      | - Skills Worked On   |
+    |      | - Availability       |
+    |      | - Public/Private     |
+    |      | - [Request Skill]    |
+    |      +----------------------+
+    |             |
+    |             v
+    |      +--------------------------+
+    |      | Screen 5: Request Form    |
+    |      | ------------------------ |
+    |      | - Select Skill to Offer  |
+    |      | - Select Skill to Request|
+    |      | - Custom Message         |
+    |      | - [Submit Request]       |
+    |      +------------+-------------+
+    |                   |
+    |                   v
+    |      +---------------------------+
+    |      | Screen 9: Request Detail  |
+    |      | ------------------------  |
+    |      | - View Skill Exchange Info|
+    |      | - Ratings & Feedback      |
+    |      +------------+--------------+
+    |
+    v
++-----------------------------+
+| Screen 6: Request Dashboard |
+| -------------------------- |
+| - View All Requests         |
+| - Accept / Reject Buttons   |
+| - Status: Pending/Accepted  |
+|   /Rejected                 |
++-----------------------------+
