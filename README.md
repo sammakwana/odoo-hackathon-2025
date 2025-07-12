@@ -77,5 +77,36 @@ Enable departments to post temporary internal tasks matched by skills.
 
 - Align workforce potential with organizational goals.
 
-
+# plain text
+        ┌────────────────────────┐
+        │  New Employee Added    │
+        └──────────┬─────────────┘
+                   ↓
+     ┌──────────────────────────────┐
+     │ Checklist Auto-Generated     │
+     │ Based on Role/Department     │
+     └──────────┬───────────────────┘
+                ↓
+     ┌──────────────────────────────┐
+     │ Tasks Assigned Automatically │
+     │ to IT / Admin / HR Teams     │
+     └──────────┬───────────────────┘
+                ↓
+     ┌────────────────────────────────┐
+     │ Employees Upload Documents     │
+     │ via Portal or Backend Access   │
+     └──────────┬─────────────────────┘
+                ↓
+     ┌────────────────────────────────────────┐
+     │ Admin/HR Reviews & Verifies Documents  │
+     └──────────┬─────────────────────────────┘
+                ↓
+     ┌────────────────────────────────┐
+     │ Dashboard Tracks Progress       │
+     │ (Visual Cues + Status Alerts)  │
+     └──────────┬─────────────────────┘
+                ↓
+        ┌────────────────────────┐
+        │  Onboarding Completed ✅ │
+        └────────────────────────┘
 
