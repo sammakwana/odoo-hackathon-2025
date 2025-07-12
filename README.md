@@ -19,4 +19,3 @@ No money involved. Just learning and growing together.
 - 📝 Ratings and feedback after swaps
 - 🛡️ Admin tools for moderation and analytics
 
-```
