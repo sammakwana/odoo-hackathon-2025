@@ -9,5 +9,14 @@
 ## 🚀 Project Overview
 
 Skill Swap was built during a hackathon to promote **peer-to-peer learning** by creating a **matchmaking system** where users can offer a skill and request another in return.
-
 No money involved. Just learning and growing together.
+
+## 🚀 Features
+
+- 👤 User Profiles with skills, location, availability & privacy settings
+- 🔍 Skill-based search and filter
+- 🤝 Skill swap request system (with accept, reject, delete options)
+- 📝 Ratings and feedback after swaps
+- 🛡️ Admin tools for moderation and analytics
+
+```
