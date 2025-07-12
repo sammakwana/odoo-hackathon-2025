@@ -79,15 +79,12 @@ Enable departments to post temporary internal tasks matched by skills.
 
 # plain text
 
-+---------------------+
 |  Screen 2: Login    |
 |  -----------------  |
 |  Email + Password   |
 |  [Login Button]     |
-+----------+----------+
-           |
-           v
-+-----------------------------+
+
+
 | Screen 1: Home Page         |
 | --------------------------  |
 | - Search Users              |
@@ -95,44 +92,39 @@ Enable departments to post temporary internal tasks matched by skills.
 | - View Skill Cards          |
 | - [Request] Button          |
 | - Pagination                |
-+---+-------------+-----------+
-    |             |
-    |             v
-    |      +----------------------+
-    |      | Screen 3: User Profile|
-    |      | -------------------- |
-    |      | - Name, Location     |
-    |      | - Skills Offered     |
-    |      | - Skills Worked On   |
-    |      | - Availability       |
-    |      | - Public/Private     |
-    |      | - [Request Skill]    |
-    |      +----------------------+
-    |             |
-    |             v
-    |      +--------------------------+
-    |      | Screen 5: Request Form    |
-    |      | ------------------------ |
-    |      | - Select Skill to Offer  |
-    |      | - Select Skill to Request|
-    |      | - Custom Message         |
-    |      | - [Submit Request]       |
-    |      +------------+-------------+
-    |                   |
-    |                   v
-    |      +---------------------------+
-    |      | Screen 9: Request Detail  |
-    |      | ------------------------  |
-    |      | - View Skill Exchange Info|
-    |      | - Ratings & Feedback      |
-    |      +------------+--------------+
-    |
-    v
-+-----------------------------+
+
+               
+           
+  
+ | Screen 3: User Profile|
+ | -------------------- |
+ | - Name, Location     |
+ | - Skills Offered     |
+ | - Skills Worked On   |
+ | - Availability       |
+ | - Public/Private     |
+ | - [Request Skill]    |
+        
+               
+             
+  | Screen 5: Request Form    |
+  | ------------------------ |
+  | - Select Skill to Offer  |
+  | - Select Skill to Request|
+  | - Custom Message         |
+  | - [Submit Request]       |
+       
+     
+  | Screen 9: Request Detail  |
+  | ------------------------  |
+  | - View Skill Exchange Info|
+  | - Ratings & Feedback      |
+
+   
 | Screen 6: Request Dashboard |
 | -------------------------- |
 | - View All Requests         |
 | - Accept / Reject Buttons   |
 | - Status: Pending/Accepted  |
 |   /Rejected                 |
-+-----------------------------+
+
