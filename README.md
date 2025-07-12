@@ -19,3 +19,25 @@ No money involved. Just learning and growing together.
 - 📝 Ratings and feedback after swaps
 - 🛡️ Admin tools for moderation and analytics
 
+# 🔁 Workflows
+<br> 🧑‍💼 Skill Swap Request
+<br>
+- Employee logs in and browses available skills
+
+- Sends a swap request to another employee
+
+- Manager/Admin approves or rejects
+
+- Both parties notified
+
+- Skill added to profile on completion
+
+📊 Admin Workflow
+<br> 
+- View all swap requests in dashboard
+
+- Approve or decline with one click
+
+- Track most requested skills
+
+- Export data for HR insights
