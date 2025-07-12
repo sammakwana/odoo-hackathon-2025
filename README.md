@@ -65,3 +65,17 @@ Add leaderboards to encourage learning and collaboration.
 - 💼 Talent Marketplace (Internal) <br>
 Enable departments to post temporary internal tasks matched by skills.
 
+# 🎯 Purpose of the Project
+
+- Promote a culture of continuous learning and collaboration.
+
+- Encourage internal upskilling.
+
+- Reduce dependency on external hiring for short-term skills.
+
+- Help managers track and nurture team development.
+
+- Align workforce potential with organizational goals.
+
+
+
