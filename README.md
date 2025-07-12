@@ -41,3 +41,27 @@ No money involved. Just learning and growing together.
 - Track most requested skills
 
 - Export data for HR insights
+
+# 🧠 Future Scope Ideas <br>
+- 🤖 AI-Based Skill Suggestions<br>
+Recommend new skills to users based on job role, history, and team needs using AI/ML.
+
+- 📱 Mobile App or PWA <br>
+Build a Progressive Web App (PWA) or mobile version for on-the-go skill exchange.
+
+- 🧾 PDF Resume Generator <br>
+Auto-generate resumes or internal performance reports based on acquired/swapped skills.
+
+ 
+- 📅 Calendar-Based Scheduling <br>
+Schedule skill swap sessions or with built-in calendar view.
+
+- 📊 Skill Gap Analysis Dashboard <br>
+Let admins/managers identify missing skills in teams or departments.
+
+- 🛠 Gamification <br>
+Add leaderboards to encourage learning and collaboration.
+
+- 💼 Talent Marketplace (Internal) <br>
+Enable departments to post temporary internal tasks matched by skills.
+
